@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ojus</h1>
-- 🔭 I’m currently working on **Communicado - An E-ticketing Platform**
+- 🔭 I’m currently working on **Communicado** - **An E-ticketing Platform**
 
 - 🌱 I’m currently learning **Django**
 
